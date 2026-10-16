@@ -130,6 +130,3 @@ For a snappy overlay, prefer a non-reasoning model such as `llama-3.3-70b-versat
 - Optional conversation memory for follow-up questions
 - Packaging as a single installable app
 
-## License
-
-Choose a license for your project (MIT is a common default).
